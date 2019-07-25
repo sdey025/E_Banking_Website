@@ -1,0 +1,1 @@
+[Wed Jul 10 10:37:28.506556 2019] [php7:error] [pid 14180:tid 1960] [client 127.0.0.1:60006] PHP Fatal error:  Cannot declare class App\\Admin, because the name is already in use in C:\\xampp\\htdocs\\Ebanking\\admin\\app\\User.php on line 9, referer: http://admin.ebanking.com/register
