@@ -1,4 +1,4 @@
-@extends('layouts.app')
+36+@extends('layouts.app')
 
 @section('content')
 
@@ -107,7 +107,7 @@
                         </div>
                       
 
-                       <div class="form-group row">
+                    <div class="form-group row">
                             <label for="cover_image" class="col-md-4 col-form-label text-md-right text-light">Cover Image</label>
 
 
